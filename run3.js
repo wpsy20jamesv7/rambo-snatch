@@ -1,4 +1,4 @@
 const ruffle = window.RufflePlayer.newest();
 const player = ruffle.createPlayer();
 document.getElementById("game").appendChild(player);
-player.load("Run3.swf");
+player.load("Run 3.swf");
